@@ -17,5 +17,5 @@ $ git clone https://github.com/aughustts/termux-home-config.git
 $ cd termux-home-config
 $ cp -r .termux .bashrc ~/
 $ cd
-$ rm -r termux-home-config
+$ rm -rf termux-home-config
 ```
